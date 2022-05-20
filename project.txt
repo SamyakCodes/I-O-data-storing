@@ -1,0 +1,13 @@
+Name				Address				Phone
+
+Samyak				London				5511
+
+Jenny				Florida				55874
+
+Aman				Kalkata				121211
+
+Sandy				Mumbai				14232423
+
+Brian				San-Diego			5656
+
+Drake				California			645756745
